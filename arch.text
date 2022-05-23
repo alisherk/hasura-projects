@@ -1,0 +1,5 @@
+Hasura collapases 3 layesr into 1
+Api gateway - rate limmiting, security, load balacing
+App server layer - authorization caching 
+Orm layer - access database
+
